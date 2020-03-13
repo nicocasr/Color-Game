@@ -1,1 +1,1 @@
-<?php include_once("colors.html"): ?>
+<?php include_once("colors.html"); ?>
